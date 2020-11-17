@@ -3,7 +3,8 @@
 ## Overview of Project
 
 ### Purpose
-The purpose of this report is to provide key data points and statistics that will enable effective decision making for Louise's fundraising goal. The data and representation provided in this report are theater kickstarter campaigns that have been segmented by outcomes based on launch date and goals. ---
+The purpose of this report is to provide key data points and statistics that will enable effective decision making for Louise's fundraising goal. The data and representation provided in this report are theater kickstarter campaigns that have been segmented by outcomes based on launch date and goals. 
+---
 ![Outcomes vs Goals](desktop/Class Folder/Crowdfunding Analysis/resources/Outcomes_vs_Goals.png
 
 
