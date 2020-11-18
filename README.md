@@ -50,7 +50,7 @@ More data and representation is needed to draw significant conclusions as data p
 
 - What are some other possible tables and/or graphs that we could create?
   
-  - A possible category to include would be the genre's of each play and the familiarity of the funders to the         title of the play being produced. 
+  - A possible category to include would be the genres of each play and the familiarity of the funders to the           title of the play being produced. However, additional data would have to be provided or extracted from the         campaign's name or blurb. 
   
   - We could also have segmented the success based on country. Depending on where Louise would want to produce her     play, it would be important to know geographically audiences would be most interested. 
 
